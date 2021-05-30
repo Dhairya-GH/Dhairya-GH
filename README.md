@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhairya Gupta
 - 👀 I’m interested in Programming, Web Development, Graphic Designing and Cyber Security
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Web Development
 - 📫 EMAIL :- guptadhairya38@gmail.com
 
 
